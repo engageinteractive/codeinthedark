@@ -1,6 +1,8 @@
 {
   "devDependencies": {
-    "browser-sync": "^2.11.1",
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.11.1"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/browser-sync start start --config bs-config.js"
   }
 }
