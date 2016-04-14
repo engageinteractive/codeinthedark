@@ -6,5 +6,5 @@ module.exports = {
 	notify: false,
 	open:   false,
 	port:   5757,
-	server: 'src'
+	server: ['src', 'node_modules/normalize.css']
 };
