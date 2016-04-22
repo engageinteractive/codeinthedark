@@ -3,5 +3,10 @@ module.exports = {
 	notify: false,
 	open:   false,
 	port:   5757,
-	server: ['boilerplate', 'src']
+	server: ['boilerplate', 'src'],
+	ghostMode: {
+		clicks: false,
+		forms: false,
+		scroll: false
+	}
 };
