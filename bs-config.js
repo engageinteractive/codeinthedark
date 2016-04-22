@@ -1,8 +1,5 @@
 module.exports = {
-	files:  [
-		'src/index.html',
-		'src/main.css',
-	],
+	files:  ['src/index.html'],
 	notify: false,
 	open:   false,
 	port:   5757,
