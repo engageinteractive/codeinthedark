@@ -3,7 +3,6 @@
     "start": "./node_modules/.bin/browser-sync start --config bs-config.js"
   },
   "dependencies": {
-    "browser-sync": "^2.11.1",
-    "normalize.css": "^4.1.1"
+    "browser-sync": "^2.11.1"
   }
 }
