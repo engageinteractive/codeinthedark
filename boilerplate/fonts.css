@@ -1,0 +1,23 @@
+@font-face {
+	font-family: "custom-sans-serif";
+	src: url("/lato.woff2") format("woff2");
+	font-weight: normal;
+	font-style: normal
+}
+
+@font-face {
+	font-family: "custom-sans-serif";
+	src: url("/lato--bold.woff2") format("woff2");
+	font-weight: bold;
+	font-style: normal
+}
+
+body {
+	font-size: 16px;
+	line-height: 22px;
+	font: 16px/22px;
+	font-family: "custom-sans-serif";
+	font-weight: normal;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}
