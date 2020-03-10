@@ -1,8 +1,0 @@
-{
-  "scripts": {
-    "start": "./node_modules/.bin/browser-sync start --config bs-config.js"
-  },
-  "dependencies": {
-    "browser-sync": "^2.11.1"
-  }
-}
